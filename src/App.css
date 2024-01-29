@@ -1,0 +1,87 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.react:hover {
+  filter: drop-shadow(0 0 2em #61dafbaa);
+}
+
+@keyframes logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  a:nth-of-type(2) .logo {
+    animation: logo-spin infinite 20s linear;
+  }
+}
+
+/* Define a media query for smaller screens (e.g., screens with a maximum width of 768px) */
+@media (max-width: 768px) {
+  /* Inside the media query, target the div with id "homePage" */
+  #homePage {
+    display: block; /* Display the div as a block element on smaller screens */
+  }
+}
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+
+/* App.css or the CSS file where you define styles for your components */
+
+.nav-link {
+  margin-right: 500px;
+  color: white;
+  font-size: large;
+}
+
+.nav-link:last-child {
+  margin-right: 0;
+}
+
+nav {
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  justify-content: center; /* This centers the links in the nav if there's extra space */
+}
+
+/* To add some padding to the links for better clickability */
+.nav-link {
+  padding: 10px; /* Adjust the value as needed */
+  text-decoration: none; /* Optional: to remove the underline */
+}
+
+/* To change the appearance on hover */
+.nav-link:hover {
+  color: black;
+}
+
+#myPicture {
+  border-radius: 10px;
+}
+
