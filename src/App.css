@@ -85,3 +85,14 @@ nav {
   border-radius: 10px;
 }
 
+/* In a CSS file */
+.project-image {
+  max-width: 100%;
+  max-height: 300px; /* Adjust the maximum height as needed */
+}
+
+/* In inline styles (within your React component) */
+const imageStyles = {
+  maxWidth: '100%',
+  maxHeight: '300px', // Adjust the maximum height as needed
+};

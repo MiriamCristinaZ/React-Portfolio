@@ -1,65 +1,65 @@
 [
-    {
-        "title": "My First Portfolio",
-        "technologies": "HTML and CSS",
-        "deployed_link": "#",
-        "github_link": "#",
-        "image": "path/to/image.png"
-    },
-    {
-        "title": "Bootstrap Portfolio",
-        "technologies": "HTML, CSS and Bootstrap",
-        "deployed_link": "#",
-        "github_link": "#",
-        "image": "path/to/image.png"
-    },
-    {
-        "title": "Console Finances",
-        "technologies": "JavaScript",
-        "deployed_link": "#",
-        "github_link": "#",
-        "image": "path/to/image.png"
-    },
-    {
-        "title": "Password Generator",
-        "technologies": "JavaScript",
-        "deployed_link": "#",
-        "github_link": "#",
-        "image": "path/to/image.png"
-    },
-    {
-        "title": "Code Quiz",
-        "technologies": "JavaScript",
-        "deployed_link": "#",
-        "github_link": "#",
-        "image": "path/to/image.png"
-    },
-    {
-        "title": "Workday Scheduler",
-        "technologies": "HTML, CSS and jQuery",
-        "deployed_link": "#",
-        "github_link": "#",
-        "image": "path/to/image.png"
-    },
-    {
-        "title": "Weather App",
-        "technologies": "JavaScript",
-        "deployed_link": "#",
-        "github_link": "#",
-        "image": "path/to/image.png"
-    },
-    {
-        "title": "Read-me Generator",
-        "technologies": "Command Line Application",
-        "deployed_link": "#",
-        "github_link": "#",
-        "image": "path/to/image.png"
-    },
-    {
-        "title": "Team-profile Generator",
-        "technologies": "Command Line Application",
-        "deployed_link": "#",
-        "github_link": "#",
-        "image": "path/to/image.png"
-    }
+  {
+    "title": "My First Portfolio",
+    "technologies": "HTML and CSS",
+    "deployedLink": "https://miriamcristinaz.github.io/My-First-Portfolio/",
+    "githubLink": "https://github.com/MiriamCristinaZ/My-First-Portfolio",
+    "image": "src/assets/myFirstPortfolio.jpeg"
+  },
+  {
+    "title": "Bootstrap Portfolio",
+    "technologies": "HTML, CSS and Bootstrap",
+    "deployed_link": "#",
+    "github_link": "#",
+    "image": "path/to/image.png"
+  },
+  {
+    "title": "Console Finances",
+    "technologies": "JavaScript",
+    "deployed_link": "#",
+    "github_link": "#",
+    "image": "path/to/image.png"
+  },
+  {
+    "title": "Password Generator",
+    "technologies": "JavaScript",
+    "deployed_link": "#",
+    "github_link": "#",
+    "image": "path/to/image.png"
+  },
+  {
+    "title": "Code Quiz",
+    "technologies": "JavaScript",
+    "deployed_link": "#",
+    "github_link": "#",
+    "image": "path/to/image.png"
+  },
+  {
+    "title": "Workday Scheduler",
+    "technologies": "HTML, CSS and jQuery",
+    "deployed_link": "#",
+    "github_link": "#",
+    "image": "path/to/image.png"
+  },
+  {
+    "title": "Weather App",
+    "technologies": "JavaScript",
+    "deployed_link": "#",
+    "github_link": "#",
+    "image": "path/to/image.png"
+  },
+  {
+    "title": "Read-me Generator",
+    "technologies": "Command Line Application",
+    "deployed_link": "#",
+    "github_link": "#",
+    "image": "path/to/image.png"
+  },
+  {
+    "title": "Team-profile Generator",
+    "technologies": "Command Line Application",
+    "deployed_link": "#",
+    "github_link": "#",
+    "image": "path/to/image.png"
+  }
 ]
