@@ -1,5 +1,6 @@
 [
   {
+    "id": 1,
     "title": "My First Portfolio",
     "technologies": "HTML and CSS",
     "deployedLink": "https://miriamcristinaz.github.io/My-First-Portfolio/",
@@ -7,6 +8,7 @@
     "image": "src/assets/myFirstPortfolio.jpeg"
   },
   {
+    "id": 2,
     "title": "Bootstrap Portfolio",
     "technologies": "HTML, CSS and Bootstrap",
     "deployedLink": "https://miriamcristinaz.github.io/Bootstrap-Portfolio/",
@@ -14,6 +16,7 @@
     "image": "src/assets/bootstrapPortfolio.jpeg"
   },
   {
+    "id": 3,
     "title": "Password Generator",
     "technologies": "JavaScript",
     "deployedLink": "https://miriamcristinaz.github.io/Password-Generator/",
@@ -21,6 +24,7 @@
     "image": "src/assets/passwordGenerator.jpeg"
   },
   {
+    "id": 4,
     "title": "Code Quiz",
     "technologies": "JavaScript",
     "deployedLink": "https://miriamcristinaz.github.io/Code-Quiz/",

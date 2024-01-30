@@ -12,7 +12,7 @@ function ProjectGallery() {
   return (
     <div>
       {projects.map((project) => (
-        <Project key={project.id} project={project} />
+        <Project key={project.id} project={project} /> // Using project.id as the key
       ))}
     </div>
   );
