@@ -92,11 +92,8 @@ nav {
 }
 
 /* In inline styles (within your React component) */
-const imageStyles {
-  maxWidth: 100%,
-  maxHeight: 300px, // Adjust the maximum height as needed
-};
-#formName{
+
+#formName {
   padding-left: 50px;
   color: black;
 }
