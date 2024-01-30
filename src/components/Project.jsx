@@ -11,7 +11,7 @@ function Project({ project }) {
     <div className="col-lg-4 col-md-6 mb-4">
       {" "}
       {/* Use col-lg-4 for large screens and col-md-6 for medium screens */}
-      <div className="cardProject">
+      <div className="card">
         <img
           src={project.image}
           alt={`Screenshot of ${project.title}`}
