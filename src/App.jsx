@@ -6,6 +6,7 @@ import ProjectGallery from "./components/ProjectGallery";
 import Contact from "./components/Contact";
 import "./App.css"; // If you have a separate CSS file for App
 import About from "./components/About";
+import "bootstrap/dist/css/bootstrap.min.css";
 
 function App() {
   return (

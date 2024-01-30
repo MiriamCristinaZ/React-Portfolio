@@ -1,5 +1,6 @@
 import React from "react";
-import { Container, Row, Col, Image } from "react-bootstrap"; // Import Bootstrap components
+import { Container, Row, Col, Image } from "react-bootstrap";
+
 import image from "../assets/IMG_0691.jpg";
 
 function Home() {
