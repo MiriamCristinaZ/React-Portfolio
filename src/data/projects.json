@@ -9,57 +9,22 @@
   {
     "title": "Bootstrap Portfolio",
     "technologies": "HTML, CSS and Bootstrap",
-    "deployed_link": "#",
-    "github_link": "#",
-    "image": "path/to/image.png"
-  },
-  {
-    "title": "Console Finances",
-    "technologies": "JavaScript",
-    "deployed_link": "#",
-    "github_link": "#",
-    "image": "path/to/image.png"
+    "deployedLink": "https://miriamcristinaz.github.io/Bootstrap-Portfolio/",
+    "githubLink": "https://github.com/MiriamCristinaZ/Bootstrap-Portfolio?tab=readme-ov-file",
+    "image": "src/assets/bootstrapPortfolio.jpeg"
   },
   {
     "title": "Password Generator",
     "technologies": "JavaScript",
-    "deployed_link": "#",
-    "github_link": "#",
-    "image": "path/to/image.png"
+    "deployedLink": "https://miriamcristinaz.github.io/Password-Generator/",
+    "githubLink": "https://github.com/MiriamCristinaZ/Password-Generator",
+    "image": "src/assets/passwordGenerator.jpeg"
   },
   {
     "title": "Code Quiz",
     "technologies": "JavaScript",
-    "deployed_link": "#",
-    "github_link": "#",
-    "image": "path/to/image.png"
-  },
-  {
-    "title": "Workday Scheduler",
-    "technologies": "HTML, CSS and jQuery",
-    "deployed_link": "#",
-    "github_link": "#",
-    "image": "path/to/image.png"
-  },
-  {
-    "title": "Weather App",
-    "technologies": "JavaScript",
-    "deployed_link": "#",
-    "github_link": "#",
-    "image": "path/to/image.png"
-  },
-  {
-    "title": "Read-me Generator",
-    "technologies": "Command Line Application",
-    "deployed_link": "#",
-    "github_link": "#",
-    "image": "path/to/image.png"
-  },
-  {
-    "title": "Team-profile Generator",
-    "technologies": "Command Line Application",
-    "deployed_link": "#",
-    "github_link": "#",
-    "image": "path/to/image.png"
+    "deployedLink": "https://miriamcristinaz.github.io/Code-Quiz/",
+    "githubLink": "https://github.com/MiriamCristinaZ/Code-Quiz",
+    "image": "src/assets/codingQuiz.jpeg"
   }
 ]

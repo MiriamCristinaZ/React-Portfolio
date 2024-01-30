@@ -52,7 +52,7 @@
 /* App.css or the CSS file where you define styles for your components */
 
 .nav-link {
-  margin-right: 500px;
+  margin-right: 100px;
   color: white;
   font-size: large;
 }
@@ -92,7 +92,11 @@ nav {
 }
 
 /* In inline styles (within your React component) */
-const imageStyles = {
-  maxWidth: '100%',
-  maxHeight: '300px', // Adjust the maximum height as needed
+const imageStyles {
+  maxWidth: 100%,
+  maxHeight: 300px, // Adjust the maximum height as needed
 };
+#formName{
+  padding-left: 50px;
+  color: black;
+}

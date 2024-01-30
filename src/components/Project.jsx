@@ -11,7 +11,7 @@ function Project({ project }) {
     <div className="col-lg-4 col-md-6 mb-4">
       {" "}
       {/* Use col-lg-4 for large screens and col-md-6 for medium screens */}
-      <div className="card">
+      <div className="cardProject">
         <img
           src={project.image}
           alt={`Screenshot of ${project.title}`}
@@ -23,6 +23,7 @@ function Project({ project }) {
           <a href={project.deployedLink} className="btn btn-primary mr-2">
             Deployed Project
           </a>
+          <br></br>
           <a href={project.githubLink} className="btn btn-secondary">
             GitHub Repo
           </a>
